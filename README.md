@@ -1,0 +1,3 @@
+- Used GitHub API to gather user and repository data.
+- Notable insight: High proportion of repositories use Python or JavaScript.
+- Recommendation: To gain visibility, consider creating projects in popular languages.
